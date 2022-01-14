@@ -1,4 +1,11 @@
 #simple blackjack game
+#rules
+#draw cards until you get as close to 21 as possible
+#dealer draws cards if their score is 16 or under
+#17 and above, the dealer must stand
+#if player has a higher score than dealer, the player wins
+#if player gets over 21, the player loses
+
 import random
 score = 0
 dealer_score = 0
