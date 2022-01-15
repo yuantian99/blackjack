@@ -1,4 +1,3 @@
-#simple blackjack game
 #rules
 #draw cards until you get as close to 21 as possible
 #dealer draws cards if their score is 16 or under
